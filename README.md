@@ -4,7 +4,9 @@ Hosted at HEROKU
 go to site https://morning-depths-39399.herokuapp.com/
 
 To add your won blog 
-Create new route /posts/<post-name>
+Create new route /posts/:post-name
+
+
 eg:
 
 https://morning-depths-39399.herokuapp.com/posts/Tomorrow
